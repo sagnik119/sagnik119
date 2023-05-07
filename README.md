@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sagnik119
-- 👀 I’m interested in Machine Learning Applications in Wireless Networks
-- 🌱 I’m currently learning 5G, WiFi, UWB networking concepts and applications of filtering algorithms in these domains
+- 👀 I’m pursuing a Ph.D. at Stanford University on Machine Learning Applications in Next-generation Wireless Communications
+- 🌱 I’m currently into 5G, WiFi, UWB networking projects
 - 💞️ I’m looking to collaborate on wireless network based projects
-- 📫 How to reach me : sagnik119@gmail.com
+- 📫 How to reach me : sagnikb@stanford.edu
 
 <!---
 sagnik119/sagnik119 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
