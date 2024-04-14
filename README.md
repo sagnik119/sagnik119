@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sagnik119
-- 👀 I’m pursuing a Ph.D. at Stanford University on Machine Learning Applications in Next-generation Wireless Communications
-- 🌱 I’m currently into 5G, WiFi, UWB networking projects
-- 💞️ I’m looking to collaborate on wireless network based projects
+- 👀 I’m pursuing a Ph.D. at Stanford University on Machine Learning, Information Theory and Signal Processing
+- 🌱 I’m currently into projects involving LLM, smart compression, source channel coding, or machine learning
+- 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me : sagnikb@stanford.edu
 
 <!---
